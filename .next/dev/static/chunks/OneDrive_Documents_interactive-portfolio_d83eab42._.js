@@ -2036,7 +2036,7 @@ function BootSequence({ onComplete }) {
                                             delay: 0.3
                                         },
                                         className: "text-4xl font-bold text-primary-foreground",
-                                        children: "JD"
+                                        children: "AT"
                                     }, void 0, false, {
                                         fileName: "[project]/OneDrive/Documents/interactive-portfolio/components/boot-sequence.tsx",
                                         lineNumber: 127,
@@ -2082,7 +2082,7 @@ function BootSequence({ onComplete }) {
                                         delay: 0.5,
                                         duration: 0.8
                                     },
-                                    children: "John Doe"
+                                    children: "Ahmed Tahri"
                                 }, void 0, false, {
                                     fileName: "[project]/OneDrive/Documents/interactive-portfolio/components/boot-sequence.tsx",
                                     lineNumber: 145,
@@ -2099,7 +2099,7 @@ function BootSequence({ onComplete }) {
                                         delay: 0.8
                                     },
                                     className: "text-muted-foreground mt-2",
-                                    children: "Creative Developer"
+                                    children: "Creative Engineer"
                                 }, void 0, false, {
                                     fileName: "[project]/OneDrive/Documents/interactive-portfolio/components/boot-sequence.tsx",
                                     lineNumber: 153,

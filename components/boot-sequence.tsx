@@ -130,7 +130,7 @@ export function BootSequence({ onComplete }: BootSequenceProps) {
                   transition={{ delay: 0.3 }}
                   className="text-4xl font-bold text-primary-foreground"
                 >
-                  JD
+                  AT
                 </motion.span>
               </div>
             </motion.div>
@@ -148,7 +148,7 @@ export function BootSequence({ onComplete }: BootSequenceProps) {
                 animate={{ letterSpacing: "0.05em", opacity: 1 }}
                 transition={{ delay: 0.5, duration: 0.8 }}
               >
-                John Doe
+                Ahmed Tahri
               </motion.h1>
               <motion.p
                 initial={{ opacity: 0 }}
@@ -156,7 +156,7 @@ export function BootSequence({ onComplete }: BootSequenceProps) {
                 transition={{ delay: 0.8 }}
                 className="text-muted-foreground mt-2"
               >
-                Creative Developer
+                Creative Engineer
               </motion.p>
             </motion.div>
 
