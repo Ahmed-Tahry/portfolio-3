@@ -43,6 +43,24 @@ const projects = [
     liveUrl: "#",
     githubUrl: "https://github.com/Ahmed-Tahry/MarketMind",
   },
+     {
+    id: 4,
+    title: "TinyClicks",
+    description: "A URL shortening service with an analytics dashboard. Built using Next.JS 13, backed by Prisma and MongoDB for data management",
+    image: "/Capture4654.PNG",
+    tags: ["microservices", "Tailwind CSS", "Next.js","MongoDB"],
+    liveUrl: "#",
+    githubUrl: "https://github.com/Ahmed-Tahry/URL-Shortener",
+  },
+     {
+    id: 4,
+    title: "Resume Matcher",
+    description: "Resume Matcher is designed to help you optimize your resume with the aim to highlight your skills and experience in a way that resonates with potential employers.",
+    image: "/image.png",
+    tags: ["LLMs", "microservices", "Next.js","Ollama"],
+    liveUrl: "#",
+    githubUrl: "https://github.com/Ahmed-Tahry/Resume-Matcher",
+  },
 ]
 
 const container = {
