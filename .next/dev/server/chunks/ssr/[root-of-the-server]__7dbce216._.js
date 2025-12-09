@@ -78,15 +78,15 @@ const metadata = {
     icons: {
         icon: [
             {
-                url: "/icon-light-32x32.png",
+                url: "/6534601.jpg",
                 media: "(prefers-color-scheme: light)"
             },
             {
-                url: "/icon-dark-32x32.png",
+                url: "/6534601.jpg",
                 media: "(prefers-color-scheme: dark)"
             },
             {
-                url: "/icon.svg",
+                url: "/6534601.jpg",
                 type: "image/svg+xml"
             }
         ],

@@ -891,6 +891,34 @@ const projects = [
         ],
         liveUrl: "#",
         githubUrl: "https://github.com/Ahmed-Tahry/MarketMind"
+    },
+    {
+        id: 4,
+        title: "TinyClicks",
+        description: "A URL shortening service with an analytics dashboard. Built using Next.JS 13, backed by Prisma and MongoDB for data management",
+        image: "/Capture4654.PNG",
+        tags: [
+            "microservices",
+            "Tailwind CSS",
+            "Next.js",
+            "MongoDB"
+        ],
+        liveUrl: "#",
+        githubUrl: "https://github.com/Ahmed-Tahry/URL-Shortener"
+    },
+    {
+        id: 4,
+        title: "Resume Matcher",
+        description: "Resume Matcher is designed to help you optimize your resume with the aim to highlight your skills and experience in a way that resonates with potential employers.",
+        image: "/image.png",
+        tags: [
+            "LLMs",
+            "microservices",
+            "Next.js",
+            "Ollama"
+        ],
+        liveUrl: "#",
+        githubUrl: "https://github.com/Ahmed-Tahry/Resume-Matcher"
     }
 ];
 const container = {
@@ -934,7 +962,7 @@ function ProjectsContent() {
                         children: "Selected Work"
                     }, void 0, false, {
                         fileName: "[project]/OneDrive/Documents/interactive-portfolio/components/projects-content.tsx",
-                        lineNumber: 65,
+                        lineNumber: 83,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$interactive$2d$portfolio$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -942,13 +970,13 @@ function ProjectsContent() {
                         children: "A collection of projects I'm proud of"
                     }, void 0, false, {
                         fileName: "[project]/OneDrive/Documents/interactive-portfolio/components/projects-content.tsx",
-                        lineNumber: 66,
+                        lineNumber: 84,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/OneDrive/Documents/interactive-portfolio/components/projects-content.tsx",
-                lineNumber: 64,
+                lineNumber: 82,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$interactive$2d$portfolio$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$interactive$2d$portfolio$2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -970,12 +998,12 @@ function ProjectsContent() {
                                         className: "w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                                     }, void 0, false, {
                                         fileName: "[project]/OneDrive/Documents/interactive-portfolio/components/projects-content.tsx",
-                                        lineNumber: 79,
+                                        lineNumber: 97,
                                         columnNumber: 17
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/OneDrive/Documents/interactive-portfolio/components/projects-content.tsx",
-                                    lineNumber: 78,
+                                    lineNumber: 96,
                                     columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$interactive$2d$portfolio$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -989,20 +1017,20 @@ function ProjectsContent() {
                                                     children: project.title
                                                 }, void 0, false, {
                                                     fileName: "[project]/OneDrive/Documents/interactive-portfolio/components/projects-content.tsx",
-                                                    lineNumber: 89,
+                                                    lineNumber: 107,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$interactive$2d$portfolio$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$interactive$2d$portfolio$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$arrow$2d$up$2d$right$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__ArrowUpRight$3e$__["ArrowUpRight"], {
                                                     className: "w-4 h-4 text-muted-foreground group-hover:text-primary transition-colors"
                                                 }, void 0, false, {
                                                     fileName: "[project]/OneDrive/Documents/interactive-portfolio/components/projects-content.tsx",
-                                                    lineNumber: 92,
+                                                    lineNumber: 110,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/OneDrive/Documents/interactive-portfolio/components/projects-content.tsx",
-                                            lineNumber: 88,
+                                            lineNumber: 106,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$interactive$2d$portfolio$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1010,7 +1038,7 @@ function ProjectsContent() {
                                             children: project.description
                                         }, void 0, false, {
                                             fileName: "[project]/OneDrive/Documents/interactive-portfolio/components/projects-content.tsx",
-                                            lineNumber: 95,
+                                            lineNumber: 113,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$interactive$2d$portfolio$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1024,12 +1052,12 @@ function ProjectsContent() {
                                                             children: tag
                                                         }, tag, false, {
                                                             fileName: "[project]/OneDrive/Documents/interactive-portfolio/components/projects-content.tsx",
-                                                            lineNumber: 100,
+                                                            lineNumber: 118,
                                                             columnNumber: 23
                                                         }, this))
                                                 }, void 0, false, {
                                                     fileName: "[project]/OneDrive/Documents/interactive-portfolio/components/projects-content.tsx",
-                                                    lineNumber: 98,
+                                                    lineNumber: 116,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$interactive$2d$portfolio$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1048,17 +1076,17 @@ function ProjectsContent() {
                                                                     className: "w-4 h-4"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/OneDrive/Documents/interactive-portfolio/components/projects-content.tsx",
-                                                                    lineNumber: 109,
+                                                                    lineNumber: 127,
                                                                     columnNumber: 25
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/OneDrive/Documents/interactive-portfolio/components/projects-content.tsx",
-                                                                lineNumber: 108,
+                                                                lineNumber: 126,
                                                                 columnNumber: 23
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/OneDrive/Documents/interactive-portfolio/components/projects-content.tsx",
-                                                            lineNumber: 107,
+                                                            lineNumber: 125,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$interactive$2d$portfolio$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$interactive$2d$portfolio$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Button"], {
@@ -1072,57 +1100,57 @@ function ProjectsContent() {
                                                                     className: "w-4 h-4"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/OneDrive/Documents/interactive-portfolio/components/projects-content.tsx",
-                                                                    lineNumber: 114,
+                                                                    lineNumber: 132,
                                                                     columnNumber: 25
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/OneDrive/Documents/interactive-portfolio/components/projects-content.tsx",
-                                                                lineNumber: 113,
+                                                                lineNumber: 131,
                                                                 columnNumber: 23
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/OneDrive/Documents/interactive-portfolio/components/projects-content.tsx",
-                                                            lineNumber: 112,
+                                                            lineNumber: 130,
                                                             columnNumber: 21
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/OneDrive/Documents/interactive-portfolio/components/projects-content.tsx",
-                                                    lineNumber: 106,
+                                                    lineNumber: 124,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/OneDrive/Documents/interactive-portfolio/components/projects-content.tsx",
-                                            lineNumber: 97,
+                                            lineNumber: 115,
                                             columnNumber: 17
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/OneDrive/Documents/interactive-portfolio/components/projects-content.tsx",
-                                    lineNumber: 87,
+                                    lineNumber: 105,
                                     columnNumber: 15
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/OneDrive/Documents/interactive-portfolio/components/projects-content.tsx",
-                            lineNumber: 76,
+                            lineNumber: 94,
                             columnNumber: 13
                         }, this)
                     }, project.id, false, {
                         fileName: "[project]/OneDrive/Documents/interactive-portfolio/components/projects-content.tsx",
-                        lineNumber: 71,
+                        lineNumber: 89,
                         columnNumber: 11
                     }, this))
             }, void 0, false, {
                 fileName: "[project]/OneDrive/Documents/interactive-portfolio/components/projects-content.tsx",
-                lineNumber: 69,
+                lineNumber: 87,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/OneDrive/Documents/interactive-portfolio/components/projects-content.tsx",
-        lineNumber: 63,
+        lineNumber: 81,
         columnNumber: 5
     }, this);
 }
